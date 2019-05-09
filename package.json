@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-vueconf-2019-example",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A @vue/cli 3.x plugin example by Optoro for Vue Conf US 2019",
   "author": "Andrew Krawchyk <903716+akrawchyk@users.noreply.github.com>",
   "homepage": "https://github.com/optoro/vue-cli-plugin-vueconf-2019-example",
